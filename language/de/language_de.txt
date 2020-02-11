@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="btnOkSave">OK /Speichern</entry>
+<entry key="mntmKonfiguration">Konfiguration</entry>
+<entry key="lblAus"> aus </entry>
+<entry key="lblY">   y  </entry>
+<entry key="lblX">   x   </entry>
+<entry key="start5aus50">Start 5 aus 50</entry>
+<entry key="mntmExit">Beenden</entry>
+<entry key="mnHilfe">Hilfe</entry>
+<entry key="lblAnzreihe"> Anzahl der Reihen: </entry>
+<entry key="startXausY">Start Y aus Y</entry>
+<entry key="strBordertitel">Anz. d. R. </entry>
+<entry key="mnExtras">Extras</entry>
+<entry key="mntmHilfe">Hilfe</entry>
+<entry key="mntmSpeichern">Speichern</entry>
+<entry key="btnabbruch">Abbruch</entry>
+<entry key="mnDatei">Datei</entry>
+<entry key="btnAbbruch">Abbruch</entry>
+<entry key="start6aus49">Start 6 aus 49</entry>
+<entry key="reset">Reset</entry>
+<entry key="mntmZeilenrechner">Zeilenrechner</entry>
+<entry key="lblber"> über </entry>
+<entry key="btnStart">Start</entry>
+<entry key="lblNewLabel">Ergebnis :  </entry>
+</properties>

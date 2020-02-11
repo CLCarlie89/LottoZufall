@@ -1,0 +1,2 @@
+Zur Bedienung:
+X und Y entsprechen den Werten des Hauptfensters müssen hier also in umgekehrter Reihnfolge eingegeben werden, danach nur noch "Start" betätigen. 

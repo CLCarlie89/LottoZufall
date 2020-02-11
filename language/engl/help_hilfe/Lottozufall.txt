@@ -1,0 +1,10 @@
+Using:
+Simply enter the number of rows and the Appropriate Start Button ("Start 6 of 49", "Start 5 of 50") button.
+If variable values ??must be needs the fields filled in x and y and then "start x of y" are actuated.
+The button "Cancel" will cancel the current calculation process.
+With "Reset", all input and output fields are reset.
+
+The menu item File-> Save allows the result to a file to save.
+The menu item File-> Exit terminates the program.
+The menu item Extras-> line calculator opens the line calculator to calculate the maximum possible rows.
+The menu item Help> Help opens this help.

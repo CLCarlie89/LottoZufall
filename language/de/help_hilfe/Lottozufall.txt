@@ -1,0 +1,10 @@
+Bedienung:
+Einfach die Anzahl der Reihen eingeben und der Entsprechenden StartButton ("Start 6aus49", "Start 5 aus50") betätigen.
+Falls variable Werte benötigt werden müssen noch die Felder x und y ausgefüllt und danach "Start x aus y" betätigt werden.
+Der Schalter "Abbruch" bricht den aktuellen Berechnungsvorgang ab.
+Mit "Reset" werden alle Ein- und Ausgabefelder zurückgesetzt.
+
+Der Menüpunkt Datei->Speichern ermöglicht das Ergebnis in eine Datei zu Speichern.
+Der Menüpunkt Datei->Exit beendet das Programm.
+Der Menüpunkt Extras->Zeilenrechner öffnet der Zeilenrechner zum berechnen der maximal möglichen Reihen.
+Der Menüpunkt Hilfe->Hilfe öffnet diese Hilfe.
