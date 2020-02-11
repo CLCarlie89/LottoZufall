@@ -307,7 +307,7 @@ public class Lotto_Zufall_GUI extends JFrame implements Runnable {
 		JDialog jdabout = new JDialog(this, "About");
 		JTextArea txaabout = new JTextArea();
 
-		String strabout = "\n  Author : carlie \n  Version: 1.0\n  Versiondate: 05.04.2019\n  Ben�tigte/Required Javaversion: 1.7      \n";
+		String strabout = "\n  Author : CLCarlie89 \n  Version: 1.0\n  Versiondate: 11.02.2020\n  Required Javaversion: 1.7      \n";
 
 		txaabout.setEditable(false);
 		txaabout.setText(strabout);
